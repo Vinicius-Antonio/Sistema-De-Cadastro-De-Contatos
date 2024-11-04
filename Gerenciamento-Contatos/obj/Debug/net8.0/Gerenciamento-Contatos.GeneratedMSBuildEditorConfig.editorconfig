@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MeusProjetos\Sistema De Cadastros De Contatos\Sistema-De-Cadastro-De-Contatos\Gerenciamento-Contatos
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Contatos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
