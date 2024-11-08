@@ -9,5 +9,17 @@ namespace Contatos.Controler
             return View();
         }
 
+                public ActionResult Criar()
+        {
+            return View();
+        }
+                public ActionResult Editar()
+        {
+            return View();
+        }
+                public ActionResult ApagarConfirmacao()
+        {
+            return View();
+        }
     }
 }

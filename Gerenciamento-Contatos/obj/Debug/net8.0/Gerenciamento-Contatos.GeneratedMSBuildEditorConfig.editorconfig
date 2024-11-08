@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MeusProjetos\Sistema De Cadastros De Contatos\Sistema-De-Cadastro-De-Contatos\Gerenciamento-Contatos
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Contatos/ApagarConfirmacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcQXBhZ2FyQ29uZmlybWFjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Contatos/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcQ3JpYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Contatos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MeusProjetos/Sistema De Cadastros De Contatos/Sistema-De-Cadastro-De-Contatos/Gerenciamento-Contatos/Views/Contatos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

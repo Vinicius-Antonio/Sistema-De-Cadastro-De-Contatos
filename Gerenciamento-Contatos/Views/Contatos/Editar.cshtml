@@ -1,0 +1,23 @@
+<div class="text-center">
+
+  <h1 class="Display-4">Editar Contato</h1>
+  
+</div>
+
+<form>
+  <div class="form-group">
+        <label for="nome">Nome</label>
+        <input type="text" class="form-control" placeholder="Digite o nome do contato"> 
+  </div>
+  <div class="form-group">
+        <label for="email">Email</label>
+        <input type="text" class="form-control" placeholder="Digite o e-mail do contato">
+  </div>
+    <div class="form-group">
+        <label for="telefone">Numero do contato</label>
+        <input type="text" class="form-control" placeholder="Digite o número do contato">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Alterar</button>
+  <a class="btn btn-secondary" asp-controller="Contatos" asp-action="Index" role="button">Voltar</a>
+</form>
