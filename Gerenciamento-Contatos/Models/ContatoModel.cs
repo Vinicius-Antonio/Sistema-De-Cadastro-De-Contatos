@@ -1,12 +1,12 @@
 namespace ControleDeContatos.Models
 {
-    public class ContatoModel
+    public class Contato
     {
-        public int id {get; set;}
-        public string Nome {get; set;}
-        public string Email {get; set;}
-        public string Celular {get; set;}
+        public int Id { get; set; }
+        public string? Nome { get; set; }
+        public string? Telefone { get; set; }
+
+        // Tornando a propriedade Email obrigatória
+        public required string Email { get; set; }
     }
-
-
 }
