@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ControleDeContatos.Models;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 namespace ControleDeContatos.Data
 {

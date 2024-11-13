@@ -1,11 +1,12 @@
 using ControleDeContatos.Data;
 using Microsoft.EntityFrameworkCore;
-
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 
 // Configuração da conexão com o MySQL
 builder.Services.AddDbContext<BancoContext>(options =>
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")!));
+    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+    new MySqlServerVersion(new Version(8, 0, 23))));
 
 // Adicionando os serviços MVC
 builder.Services.AddControllersWithViews();
